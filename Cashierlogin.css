@@ -1,0 +1,32 @@
+ 
+    body{  
+        font-family: Calibri;  
+    }  
+    input[type="text"] {  
+        width: 250px;  
+    }  
+    input[type="Login"], input[type="Cancel"] {  
+        width: 77px;  
+        height: 27px;  
+        position: relative;right: 180px;  
+    }  
+    form{  
+        text-align: center;  
+        font-family: Calibri;  
+        font-size: 20px;  
+          
+        width: 600px;  
+        margin: 20px auto;  
+    }  
+    td {  
+        padding: 10px;  
+    }  
+    td:first-child {  
+        text-align: right;  
+        font-weight: bold;  
+    }  
+    td:last-child {  
+        text-align: right;
+    }  
+  
+ 
